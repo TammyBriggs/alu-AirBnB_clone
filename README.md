@@ -1,25 +1,24 @@
 # AirBnB Console Project
 
 ## Description
-The AirBnB Console project aims to deploy a simplified version of the AirBnB website on a server. While not encompassing all features of the original platform, it incorporates fundamental concepts, serving as a foundation for higher-level programming and enhancing learning experiences.
+The ALU-AirBnB Console project is a simplified version of the AirBnB website, integrating essential components such as database storage, a back-end API, and front-end interfacing. It represents the first step towards building a full-scale web application, enabling data management through a custom command-line interface (CLI) and establishing the base classes for storing this data.
 
 ## Command Interpreter
-The Command Interpreter, akin to a Shell but tailored to specific use-cases, facilitates managing objects within the project. It enables the following capabilities:
-- Creation of new objects
-- Retrieval of objects
-- Operations on objects
-- Updating object attributes
-- Deletion of objects
+The Command Interpreter acts like a shell, tailored for specific use cases, allowing you to manage objects in the project. It facilitates the following capabilities:
+
+Creating new objects
+Retrieving existing objects
+Updating object attributes
+Deleting objects
 
 ## Steps for Developing the Command Interpreter
-This initial step is crucial as it sets the stage for subsequent projects, including HTML/CSS templating, database storage, API integration, and front-end development. The steps involve:
-1. Setting up the console for object creation, aiding serialization/deserialization, and establishing the initial storage.
-2. Creating HTML files for enhancing user interface and visualization.
-3. Implementing MySQL for managing different types of storage (Database).
-4. Deployment of HTML using Fabric to host the application on servers.
-5. Integrating Flask web application server with stored models and HTML.
-6. Establishing RestAPI for handling objects in JSON format.
-7. Dynamically integrating JSON API with HTML for sharing the developed web application (AirBnB).
+Set up the console for object creation, serialization/deserialization, and storage.
+Build HTML/CSS files for enhancing the user interface.
+Implement MySQL for managing database storage.
+Deploy the application on servers using Fabric.
+Integrate Flask to serve stored models and HTML.
+Establish RestAPI to handle objects in JSON format.
+Connect the JSON API dynamically with HTML for sharing the web application.
 
 ## Running the Console
 The console can be utilized in both interactive and non-interactive modes:
