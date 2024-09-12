@@ -70,4 +70,4 @@ For command information: `help <command>`
 
 ## Authors
 - Tamunotonye Briggs - t.briggs1@alustudent.com
-- Mariam Abu - 
+- Mariam Abu - m.abu@alustudent.com
